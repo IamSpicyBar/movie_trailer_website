@@ -6,7 +6,7 @@ Movie trailer website project for Udecity
 **entertainment_center.py** creates 6 instances for 6 movies, and makes the website.  
 ## How to run this project?
 Put all files in the same directory, and run **entertainment_center.py**.
-## Recent problems
+## Recent problems (Solved)
 The first position in the second roll on the website is blank.
  
-*Created by Yichen Wang 09/11/17*
+*Created by Yichen Wang 09/12/17*
